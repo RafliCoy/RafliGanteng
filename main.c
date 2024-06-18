@@ -1,8 +1,7 @@
 #if 0
-	Mau ngapain ngab? Tinggal pake aja
-	apa susahnya euy!
-
-	Script by Sanz - Yt : FREE TUTORIAL
+	Script By Muhammad Rafli
+        Instagtam : Rafli.Agt
+        Youtube : Mamah Cheat	
 #endif
 
 static  char data [] = 
